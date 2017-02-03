@@ -8,6 +8,10 @@
     "email": "clay@pfd.net",
     "url": ""
   },
+  "engines": {
+    "node": "4.2.x",
+    "npm": "3.10.x"
+  },
   "contributors": [],
   "files": [
     "server",
